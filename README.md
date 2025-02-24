@@ -27,3 +27,33 @@ This repository contains an implementation of the classic **Flappy Bird** game u
    - Score increases each time the bird successfully passes through a pipe gap.
 4. **Game Over**:
    - The game ends when the bird collides with a pipe or the screen edges.
+
+Input and Output
+
+## Input:
+Key Press: The user controls the bird's jump with a key press.
+
+## Output:
+Game Screen: Displays the bird, pipes, score, and game-over message.
+
+## Applications
+
+Learning HDL and hardware-level programming.
+Exploring game mechanics on a low-level computing platform.
+Demonstrating the versatility of the Nand2Tetris platform for building interactive projects.
+
+## Limitations
+
+Graphics are limited to the Nand2Tetris platform's basic screen resolution.
+Requires familiarity with Nand2Tetris hardware and software tools.
+
+## Future Enhancements
+
+Add dynamic difficulty adjustment (e.g., faster pipes over time).
+Improve graphics rendering for smoother animations.
+Expand the game to support sound effects or multiple levels.
+
+## Resources
+
+Nand2Tetris Course: Build a Modern Computer From First Principles
+Nand2Tetris Software Tools: Install Nand2Tetris
